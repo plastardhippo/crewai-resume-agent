@@ -1,0 +1,27 @@
+# Environment
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and outputs
+*.log
+
+# Backup and temp files
+*.bak
+*.swp
+*.tmp
+~$*
+
+# Node/npm junk (if added later)
+node_modules/
